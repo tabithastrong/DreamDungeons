@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a59262cda8ba6274daed531a7d47abf0, type: 3}
+  m_Name: Sweet Tile Map
+  m_EditorClassIdentifier: 
+  standardWall: {fileID: 21300000, guid: ad45c26a90cd83a4c983c2a5833a14bf, type: 3}
+  standardDoor: {fileID: 21300000, guid: 5e403a661877b184391cd4fd4f2a06ae, type: 3}
+  bossDoor: {fileID: 21300000, guid: 8e12dcac6dcc7de4cb484569264bb0a2, type: 3}
+  floor: {fileID: 21300000, guid: 4fd893a2a60e37d40a798b1a090e1c19, type: 3}
+  wallIn: {fileID: 21300000, guid: 3909e50097fdbfb469ae3a7b7f856eb3, type: 3}
+  wallOut: {fileID: 21300000, guid: ae9cdf09ad5762b44bcde354910a82ef, type: 3}
+  specialWall: {fileID: 21300000, guid: 4056aa3c4dda72f4fa11895709fbc9c7, type: 3}
+  skyboxColor: {r: 0.92549026, g: 0.33333334, b: 0.46274513, a: 0}
+  musicToPlayWhenNotCompleted: {fileID: 8300000, guid: 83624aab714263f4e9dac2fb00014aee, type: 3}
+  musicToPlayWhenCompleted: {fileID: 8300000, guid: 74ff69affc573df4b82819873005a5da, type: 3}
+  enemyType: {fileID: 0}
+  standardWallTiles:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}

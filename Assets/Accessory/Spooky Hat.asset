@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6a9af3850ae06f418db22c3fd6d3086, type: 3}
+  m_Name: Spooky Hat
+  m_EditorClassIdentifier: 
+  sideAndBackSprites: 1
+  hideOnSideAndBack: 0
+  sprite: {fileID: 21300000, guid: d8014670d235cab408b536e5c9099f22, type: 3}
+  frontSprite: {fileID: 21300000, guid: fc9aeaa7c7e249e4aa9661bfe3c500ca, type: 3}
+  backSprite: {fileID: 21300000, guid: 7e3c89434aeb18048bfb3bd99d649ee0, type: 3}
+  positionOffset: {x: 0, y: 0.29}
+  scale: {x: 0.55, y: 0.55}
+  name: Spooky Hat
+  price: 2

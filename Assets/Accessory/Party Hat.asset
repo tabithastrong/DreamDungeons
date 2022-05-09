@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6a9af3850ae06f418db22c3fd6d3086, type: 3}
+  m_Name: Party Hat
+  m_EditorClassIdentifier: 
+  sideAndBackSprites: 0
+  hideOnSideAndBack: 0
+  sprite: {fileID: 21300000, guid: 286082d065dc3f8499e2931029bdda3d, type: 3}
+  frontSprite: {fileID: 0}
+  backSprite: {fileID: 0}
+  positionOffset: {x: 0, y: 0.385}
+  scale: {x: 0.6375051, y: 0.6375051}
+  name: Party Hat
+  price: 2
